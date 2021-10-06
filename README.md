@@ -1,6 +1,6 @@
 # 	:moneybag: Forecasting Bitcoing Prices using ARIMA, SARIMAX & Prophet
 
-Project from the Data Science Academy Mentorship.
+Project from the Data Science Academy Mentoring.
 
 *Team:* Natália F. Murad, Rafael Gallo
 
